@@ -75,3 +75,5 @@ For better performance and HTTPS with a custom domain:
 
 This project is initialized with git and points to: https://github.com/Arghyadevs/CampusSite.git
 
+Made for AWS Campus Project
+
