@@ -7,7 +7,7 @@ export default function Faculty() {
       hod: true,
       faculty: [
         { name: 'Prof. Dr. Tapan Chowdhury', position: 'Professor & HOD', qualification: 'Ph.D. (IIT Kharagpur)', experience: '20 years', research: 'Machine Learning, Cryptography' },
-        { name: 'Prof. Poulomi Dutta', position: 'Professor', qualification: 'B.tech (Jadavpur University)', experience: '18 years', research: 'Artificial Intelligence, Data Mining' },
+        { name: 'Prof. Poulami Dutta', position: 'Professor', qualification: 'B.tech (Jadavpur University)', experience: '18 years', research: 'Artificial Intelligence, Data Mining' },
         { name: 'Prof. Utpal Das', position: 'Professor', qualification: 'M.tech (IIEST Shibpur)', experience: '15 years', research: 'Image Processing, Soft Computing' },
         { name: 'Dr. Susanta Chakraborty', position: 'Associate Professor', qualification: 'Ph.D. (University of Calcutta)', experience: '12 years', research: 'Computer Networks, IoT' },
         { name: 'Dr. Sandip Roy', position: 'Associate Professor', qualification: 'Ph.D. (NIT Durgapur)', experience: '10 years', research: 'Software Engineering, Cloud Computing' },
